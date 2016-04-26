@@ -68,3 +68,13 @@ listeMedStrenger.reverse() //=> ['tre', 'to', 'fire', 'en']
 * Husk at vi kjørte listeMedStrenger.sort() tidligere, så det er den sorterte listen vi nå snur
 * Hadde vi snudd listen _før_ den ble sortert hadde resultatet vært ['fire', 'tre', 'to', 'en']
 * */
+
+// Skrive ut alt i en liste adskilt med komma? bruk join()
+listeMedTall.join(', ') //=> '110, 10, 9, 5, 4, 3, 2, 1'
+
+// Bygge opp en liste fra bunnen? Legg inn vha indexer
+
+var bunnListe = []
+bunnListe[0] = 'Hei' //=> ['Hei']
+bunnListe[1] = 'Hå' //=> ['Hei', 'Hå']
+bunnListe[2] = 'Hurra' //=> ['Hei', 'Hå', 'Hurra']
