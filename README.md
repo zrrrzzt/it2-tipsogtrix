@@ -1,7 +1,7 @@
 # it2-tipsogtrix
 Tips og trix som er greie å ha med seg
 
-- [lister](lister.js)(Arrays)
-- [løkker](loops.js)(Loops)
-- [html](html.js)
+- [arrays](arrays.js) (lister)
+- [loops](loops.js) (løkker)
+- [html](html.js) (html)
 
